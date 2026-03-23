@@ -1,0 +1,6 @@
+city,region,store_id,store_title
+Frankfurt,mitte,3,Store Mitte
+München,süd,2,Store South
+Hamburg,nord,1,Store North
+Köln,west,4,Store West
+Berlin,ost,5,Store East

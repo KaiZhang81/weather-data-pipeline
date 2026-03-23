@@ -1,0 +1,7 @@
+category,cost,product_id,product_title
+Furniture,80.0,306,Schreibtisch Basic
+Furniture,42.0,305,Bürostuhl Comfort
+Office,6.5,201,Aktenmappe A4
+Office,3.2,202,Notizbuch Pro
+Tech,450.0,401,Laptop Basic
+Tech,,402,Laptop Pro
