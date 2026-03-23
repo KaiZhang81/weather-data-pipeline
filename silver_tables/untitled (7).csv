@@ -1,0 +1,26 @@
+city,customer_id,customer_name,customer_type,registration_date
+unknown,1,John Mustermann,Business,2022-03-19
+Berlin,2,Laura Schmidt,unknown,2024-04-14
+Berlin,3,Chris Wagner,Private,2022-03-02
+Berlin,16,Chris Khan,unknown,2022-09-28
+Hamburg,17,Jana Schmidt,Private,2023-04-30
+Frankfurt,18,Anna Wagner,Business,2024-05-08
+Frankfurt,10,Mustermann Tim,Private,2022-09-19
+Hamburg,11,Max Mustermann,Business,2023-06-20
+unknown,12,Anna Khan,Private,2022-02-14
+Berlin,22,Berger Max,Private,2023-12-18
+Berlin,23,Berger Jana,Private,2022-09-17
+Hamburg,24,Becker Max,Private,2022-04-09
+unknown,25,Jana Mustermann,Private,2023-12-27
+Frankfurt,4,Sara Smith,Private,2023-08-29
+unknown,5,Hoffmann Tim,Private,2022-05-20
+Hamburg,6,Max Müller,unknown,2022-03-03
+Hamburg,19,Ali Smith,Business,2023-06-15
+München,20,Ali Becker,Business,2023-06-12
+Frankfurt,21,Hoffmann Max,Business,2022-09-26
+Hamburg,13,Berger Tim,unknown,2022-02-07
+Berlin,14,John Smith,Private,2022-10-20
+Frankfurt,15,Khan Laura,unknown,2023-04-05
+Berlin,7,Anna Smith,Private,2022-02-28
+Hamburg,8,Laura Müller,Private,2023-11-20
+Berlin,9,Berger Nina,Private,2022-01-26
